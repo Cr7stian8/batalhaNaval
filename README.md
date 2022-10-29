@@ -1,5 +1,5 @@
 # BATALHANAVAL-PYTHON
-<h2>Observações 👀</h2> 
+<h2>Observações</h2> 
 --> Codigo criado pelo google colab
 <br>
 --> Recomendo a execução pelo google colab, criar um novo notebook, abrir o arquivo e executar
